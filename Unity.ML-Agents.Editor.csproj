@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FC9390F5-5446-27E7-3800-8CC833C62791}</ProjectGuid>
+    <ProjectGuid>{B5E594BA-6AA7-B53E-9DAF-3ED6CE3314A6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.ML-Agents.Editor</AssemblyName>
@@ -63,7 +63,7 @@
      <Compile Include="D:\derek Fukuyama\Documents\ml-agents\ML-3\ml-agents-release_3\com.unity.ml-agents\Editor\RayPerceptionSensorComponentBaseEditor.cs" />
      <Compile Include="D:\derek Fukuyama\Documents\ml-agents\ML-3\ml-agents-release_3\com.unity.ml-agents\Editor\RenderTextureSensorComponentEditor.cs" />
  <Reference Include="Unity.Barracuda">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/ScriptAssemblies/Unity.Barracuda.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/ScriptAssemblies/Unity.Barracuda.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/Unity/hub/2018.4.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -297,34 +297,34 @@
  <HintPath>D:/Program Files/Unity/hub/2018.4.22f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Google.Protobuf">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.barracuda@0.7.1-preview/Barracuda/Runtime/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.barracuda@0.7.1-preview/Barracuda/Runtime/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Unsafe">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.Unsafe.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.Unsafe.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Cecil">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Cecil.Mdb">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Cecil.Pdb">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Burst.Cecil.Rocks">
- <HintPath>D:/derek Fukuyama/Documents/unity/2018/RollerBall/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
+ <HintPath>D:/derek Fukuyama/Documents/GitHub/LSTM/Library/PackageCache/com.unity.burst@1.5.6/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Abstractions">
  <HintPath>D:/derek Fukuyama/Documents/ml-agents/ML-3/ml-agents-release_3/com.unity.ml-agents/Plugins/System.IO.Abstractions.dll</HintPath>
@@ -695,9 +695,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.ML-Agents.csproj">
-      <Project>{ACA10246-E355-1A55-CBFC-662170CA5430}</Project>      <Name>Unity.ML-Agents</Name>    </ProjectReference>
+      <Project>{0904BCF3-E292-89B5-9B54-8D4E510DFCF5}</Project>      <Name>Unity.ML-Agents</Name>    </ProjectReference>
     <ProjectReference Include="Unity.ML-Agents.CommunicatorObjects.csproj">
-      <Project>{2BE89085-423C-4A35-1E06-6A2CC17DA96F}</Project>      <Name>Unity.ML-Agents.CommunicatorObjects</Name>    </ProjectReference>
+      <Project>{1EA3ACA4-0B14-45CD-6DF1-04C4D0FB3ADD}</Project>      <Name>Unity.ML-Agents.CommunicatorObjects</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
