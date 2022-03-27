@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LSTM.unity
+- path: Assets/Scenes/LSTM.unity
   isLoaded: 1
   isActive: 1

@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Curiosity.unity
     guid: 7ade8d7d8246e5b4ebd4cdee85bc7f34
   - enabled: 1
-    path: Assets/LSTM.unity
+    path: Assets/Scenes/LSTM.unity
     guid: 95d7e4cbe1ff4eb42ad25a5047212277
   m_configObjects: {}
